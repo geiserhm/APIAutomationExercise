@@ -1,5 +1,6 @@
 import json
 import requests
+import pytest
 
 BASE_URL = "https://crudcrud.com/api"
 
