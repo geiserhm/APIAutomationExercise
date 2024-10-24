@@ -15,7 +15,7 @@ Note: The design for the test suite and all test cases is to be executed continu
 Clone repository:
 
 ```
-git clone 
+git clone https://github.com/geiserhm/APIAutomationExercise.git
 ```
 
 Setup Python Interpreter:
